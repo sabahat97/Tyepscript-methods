@@ -1,4 +1,5 @@
 let minutesUntilBusArrives = 6
+
 function checking (){
     minutesUntilBusArrives--;
     if (minutesUntilBusArrives != 0){
